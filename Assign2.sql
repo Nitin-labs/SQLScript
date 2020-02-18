@@ -1,0 +1,26 @@
+INSERT INTO `testDB`.`citizen_Personal_Details`
+(`citizenId`,`fullName`,`aadharId`,`dateOfBirth`,`state`,`pincode`,`gender`,`email`,`primaryPhone`,`otherPhone`,`address`)
+VALUES
+(103210,'Schmitt Carine ','1581501748023096','1995-12-14', 'Nantes','44000', 'male','carine@sch.uk','4400071809','7180013707','54 rue Royale France'),
+(112166,'King Jean',         '1581501748023906','1996-12-03','Las Vegas','83030','male','jean@gma.us','7025551838','8489611117', 'Strong St. NV USA'),
+(119137, 'Labrune Janine',  '2580935205895936', '1992-05-06','Nantes','456895','female','labjan@nin.us','8406785585',  '6798645872','rue des Cinquante Otages France'),
+(121150, 'Bergulfsen  Jonas','9249276881338355','1994-02-07','Stavern', '89555','male','jonas@sen.nr','4155551450',    '2664275558','Erling Skakkes gate, Norway'),
+(124165, 'Nelson Susan',    '4155551454535780', '1990-03-05','CA',    '5677','female','susan@nel.us','6502194782',     '9865745821', 'Strong St.,San Rafael, USA'),
+(150125, 'Piestrzen Zbyszek ','8957642545781432','1988-01-09','Warszawa','441223','male','Zbyszek@zek.ul','2566427555','2536845786','Filtrowa 68 , Poland'),
+(712128, 'Keitel Roland', '8503578937150146', '2000-05-25','Frankfurt', '44036', 'male','roland@kei.fr','4969669025',  '9864253562','Lyonerstr. 34 Germany'),
+(565129, 'Murphy Julie', '7700643490721148',  '1998-10-06','San Francisco','650558','female','julie@phy.al','5578755578','6589725483','North Pendale Street CA USA'),
+(323131, 'Lee Kwai', '6339585241246582',     '1979-11-16','NY','212555', 'male','kwai@lee.us','89725986475',           '23658736985','Long Airport Avenue NYC USA'),
+(370141, 'Freyre Diego ','7387733466353019',  '1997-08-15','Madrid','492546','male', 'diego@fre.hl','9155594442',      '98652754728', 'C/ Moralzarzal, 86 Spain'),
+(504442, 'Berglund Christina ','1919911915361799','2000-10-28', 'Luleå','478356','female','chris@ber.nz', '0921123555','0925469686', 'Berguvsvägen, S-958,Sweden'),
+(401145, 'Petersen Jytte ', '7436359485086388','1992-09-23','Kobenhavn','256887','female','jytte@pet.fr', '9231283555','0225335648','Vinbæltet 34, Denmark'),
+(895114,'Ferguson Peter','8292815059696151','1973-09-15','Victoria','204892','male','peter@mel.br','6570515219','6535050157', '5 Eiden Road, Melbourne, Australia'),
+(255119,'Brune Janine','1784725496344944','1988-12-03','Nantes','406762','female','janine@bru.fr', '4177408194','3347065851','36 wall street, Rusawella, France'),
+(361121,'Jonas Honk','3144866882958325','1982-05-22','Stavern','079895','female','honk@jon.no','6393656392','7922310715','Jang Staka, Norway'),
+(321124,'Nekolas Jacob','4801231785492256','1995-03-05','CA','555145','male','jacob@nik.us','4733108705','5924434688','Rafael, House 14, USA'),
+(214125,'Peter Zack ','9739973274748748','1994-11-17','Warszawa','266427','male','zackpeter@ack.pl','9098986116','8889199505','Troup guard, Poland'),
+(324128,'Katalina Rond','4296171324603419','1990-10-08','Watican','496990','female','katalina@rnd.gr','2937326350','6772828415', 'Sales Tower,Germany'),
+(542129,'Mini Murie','2260937106107303','1997-12-12','Jakaarta','655787','female','murie@min.ca','7575761373','70588661255','Paleen street, San Francisco,USA'),
+(784131,'Linda Kwai','8416171864062708','2002-11-19','New York','557818','female','linda@kwa.ny','7559541909','8079829444','897 West land, USA'),
+(621141,'Eurannel Freyre','7529804830932808','2001-05-19','Johansberg','419444','male','eurannel@fre.as','8105892625','9596237465','Madrid Hotel, Spain'),
+(907144,'Volvo licastina ','1417262617887243','1998-04-25','Berkely','421235','female','volovo@Ber.gu','9363217040','8323541909','Beverly Hills, USA'),
+(836145,'Danish Petersen','4220619866829942','1981-12-31', 'Chicago','412325','male','danish@pet.de','8639071442','7889524131','LA, Hollycrown, USA');
